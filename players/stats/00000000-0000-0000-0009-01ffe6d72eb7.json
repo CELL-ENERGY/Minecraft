@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:item_frame": 1,
+      "minecraft:dirt": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 20,
+      "minecraft:walk_one_cm": 57821,
+      "minecraft:leave_game": 5,
+      "minecraft:walk_under_water_one_cm": 2262,
+      "minecraft:damage_taken": 515,
+      "minecraft:play_time": 22820,
+      "minecraft:jump": 118,
+      "minecraft:time_since_death": 0,
+      "minecraft:open_barrel": 6,
+      "minecraft:sprint_one_cm": 25004,
+      "minecraft:open_chest": 20,
+      "minecraft:fall_one_cm": 3391,
+      "minecraft:swim_one_cm": 8494,
+      "minecraft:total_world_time": 22820,
+      "minecraft:fly_one_cm": 28892,
+      "minecraft:walk_on_water_one_cm": 5163,
+      "minecraft:crouch_one_cm": 461,
+      "minecraft:sneak_time": 2559,
+      "minecraft:deaths": 2,
+      "minecraft:interact_with_stonecutter": 3
+    },
+    "minecraft:mined": {
+      "minecraft:dirt_path": 1,
+      "minecraft:seagrass": 1,
+      "minecraft:coarse_dirt": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 1,
+      "minecraft:coarse_dirt": 1,
+      "minecraft:item_frame": 1
+    }
+  },
+  "DataVersion": 4903
+}
